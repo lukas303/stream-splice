@@ -1,4 +1,4 @@
-declare filename "stream_splicer_v1_0.dsp"; declare name "stream_splicer_v1_0"; declare name "MultichannelDataGranulator"; 
+declare filename "stream-splice"; 
 declare version "1.0";
 declare author "Lukas Hartmann & Luca Hilbrich"; 
 
